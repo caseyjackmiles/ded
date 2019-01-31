@@ -1,0 +1,7 @@
+{
+	"name": "ded",
+	"description": "ed editor clone",
+	"authors": ["Jack Miles"],
+	"homepage": "http://myproject.example.com",
+	"license": "GPL-3.0"
+}
